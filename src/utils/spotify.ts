@@ -1,5 +1,5 @@
 const CLIENT_ID = "8b65eb67281f408a8ecffbf60e1b9152";
-const REDIRECT_URI = "https://magenta-biscotti-10b3fe.netlify.app";
+const REDIRECT_URI = "https://magenta-biscotti.vercel.app";
 const AUTH_ENDPOINT = "https://accounts.spotify.com/authorize";
 const RESPONSE_TYPE = "token";
 const SCOPES = [
